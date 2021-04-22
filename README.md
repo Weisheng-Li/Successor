@@ -1,2 +1,2 @@
 # Successor
-The windows build for my Unity game project.
+The Windows build for my Unity game project.
