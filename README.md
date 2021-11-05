@@ -1,5 +1,5 @@
 # Successor
-The Windows build for my 1-week Unity game project.
+The Windows build for my 1-week Unity game project. It's a proof of concept for the core mechanic.
 
 The lower resolution online version is available on https://play.unity.com/p/successor/edit
 
